@@ -1,0 +1,34 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "password": "password123",
+      "books": [
+        {
+          "id": "101",
+          "bookName": "The Great Gatsby"
+        },
+        {
+          "id": "102",
+          "bookName": "To Kill a Mockingbird"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "password": "password456",
+      "books": [
+        {
+          "id": "103",
+          "bookName": "1984"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "password": "password789",
+      "books": []
+    }
+  ]
